@@ -18,6 +18,7 @@ quando passa por dentro de estábulos, o score diminui (começa num valor fixo e
 
 - Pygame
 - Random
+- Os
 
 ### Tarefas
 
