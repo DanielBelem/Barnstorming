@@ -18,11 +18,12 @@ quando passa por dentro de estábulos, o score diminui (começa num valor fixo e
 
 - Pygame
 - Random
-- Os
+- Time
 
 ### Tarefas
 
-1. desenhar a matriz do nível, o relógio e o avião
+
 1. ler teclas e mover o avião
-1. implementar obstáculos e estábulos a moverem-se na direção do jogador de forma pseudo-aleatoria
-2. verificar se jogador chegou ao fim do nível
+2. implementar obstáculos e estábulos a moverem-se na direção do jogador de forma pseudo-aleatoria
+3. Criar Hitboxes
+4. verificar se jogador chegou ao fim do nível
