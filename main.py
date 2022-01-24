@@ -200,7 +200,7 @@ def menu_text(levels, choice):
     drawText("-",(Width/2)-220,(Height/2)+40, arial, 40, 'green', False)
     drawText("=",(Width/2)-90,(Height/2)+45, arial, 35, 'green', False)
 
-def mainloop(test1):
+def mainloop():
     lapsed_time = 0
     stationary  = True
     levels = [(1,10), (2,15), (3,25)]
@@ -357,4 +357,4 @@ def mainloop(test1):
         pygame.display.update()
     pygame.quit()
     
-mainloop(test1)
+mainloop()
