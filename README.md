@@ -10,10 +10,6 @@ Criar um jogo semelhante ao clássico barnstorming
 *---Um jogo em que a performance é contada em contra-relógio, quando bate num objeto, perde alguma velocidade,
 quando passa por dentro de estábulos, o score diminui (começa num valor fixo e desce até a vitória ).---*
 
-### UI
-
-![UI](ui.png)
-
 ### Pacotes
 
 - Pygame
